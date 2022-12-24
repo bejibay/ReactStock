@@ -1,1 +1,1 @@
-# ReactStockModule
+# ReactStock
